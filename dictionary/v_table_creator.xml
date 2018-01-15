@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="no_attachment=true" label="Create Table" max_length="40" name="v_table_creator" type="collection">
+        <element label="Need it" max_length="320" name="x_185452_need_it_need_it" type="color"/>
+    </element>
+</database>
